@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/nodebug.f90

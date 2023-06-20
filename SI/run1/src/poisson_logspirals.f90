@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/poisson_logspirals.f90

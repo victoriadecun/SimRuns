@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/chemistry_simple.f90
