@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/special/chiral_mhd.f90

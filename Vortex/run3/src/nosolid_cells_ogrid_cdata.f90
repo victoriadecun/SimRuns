@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/nosolid_cells_ogrid_cdata.f90

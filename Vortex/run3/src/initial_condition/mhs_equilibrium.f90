@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/initial_condition/mhs_equilibrium.f90

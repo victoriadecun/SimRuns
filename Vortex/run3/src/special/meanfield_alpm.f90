@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/special/meanfield_alpm.f90

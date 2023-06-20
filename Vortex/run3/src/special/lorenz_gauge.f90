@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/special/lorenz_gauge.f90

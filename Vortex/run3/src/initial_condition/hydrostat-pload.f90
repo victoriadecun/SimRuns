@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/initial_condition/hydrostat-pload.f90

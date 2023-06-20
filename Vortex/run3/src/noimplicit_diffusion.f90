@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/noimplicit_diffusion.f90

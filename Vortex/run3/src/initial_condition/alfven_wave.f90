@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/initial_condition/alfven_wave.f90

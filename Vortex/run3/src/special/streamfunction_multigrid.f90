@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/special/streamfunction_multigrid.f90

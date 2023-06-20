@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/nointerstellar.f90

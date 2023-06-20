@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/noparticles_diagnos_dv.f90

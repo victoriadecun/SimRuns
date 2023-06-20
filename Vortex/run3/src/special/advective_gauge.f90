@@ -1,1 +1,0 @@
-/Users/wlyra/pencil-code/src/special/advective_gauge.f90
