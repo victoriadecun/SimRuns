@@ -1,0 +1,50 @@
+!                          -*-f90-*- (for Emacs)
+!
+!  Run parameters for MRI turbulence
+!
+&run_pars
+  cvsid='$Id: run.in,v 1.2 2009-09-24 08:59:37 wlyra Exp $',
+  nt=100000000, it1=50, cdt=0.4, cdtv=0.4, isave=5000, itorder=3,
+  dsnap=6.283185307179586, dtmin=1.0e-6, dvid=1.0
+  lbidiagonal_derij=F
+  lpencil_check=F
+  tmax=6300.
+  max_walltime = 171900 ! 48 hrs - 15 min
+  lread_aux=T
+  lwrite_aux=T
+/
+&eos_run_pars
+/
+&hydro_run_pars
+/
+&density_run_pars
+!  idiff='hyper3-mesh'!,'shock'
+!  diffrho_hyper3_mesh=5!,diffrho_shock=1.
+  idiff='hyper3-aniso'
+  diffrho_hyper3_aniso=1e-17,1e-14,0.
+/
+&entropy_run_pars
+ TTref_cool=2.5e-2
+ !tau_cool=0.7142857
+ tau_cool=6.283
+ !iheatcond='hyper3-mesh'!,'shock'
+ !chi_hyper3_mesh=5!,chi_shock=1.
+ iheatcond='hyper3-aniso'
+ chi_hyper3_aniso=1e-17,1e-14,0.
+/
+&shear_run_pars
+  qshear=1.5
+/
+&viscosity_run_pars
+ ! ivisc='hyper3-mesh'!,'nu-shock'
+ ! nu_hyper3_mesh=5!,nu_shock=1.
+  nu_aniso_hyper3=1e-17,1e-14,0.0
+  ivisc='hyper3_nu-const_aniso'
+/
+&special_run_pars
+  Bshear=2.0
+  lunstratified=T
+/
+&shock_run_pars
+  lrewrite_shock_boundary=T
+/

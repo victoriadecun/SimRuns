@@ -1,0 +1,29 @@
+# Log file of Pencil Code commands.
+# This compiles with the same parameters as last time in this directory:
+# pc_build -p
+
+# 2022-11-03 15:16:29
+/Users/wlyra/pencil-code/bin/pc_build --fast
+# make 'FC=/opt/local/libexec/openmpi-gcc11/mpif90' 'FFLAGS=-O -O0 -Wall -finit-real=NaN -finit-integer=-2147483648 -g -fbacktrace -fimplicit-none -fcheck=all -ffpe-trap=invalid,zero,overflow,denormal -O1 -I/opt/local/include' 'FFLAGS_DOUBLE=-fdefault-real-8 -fdefault-double-8' 'F77=/opt/local/libexec/openmpi-gcc11/mpif77' 'CC=/opt/local/libexec/openmpi-gcc11/mpicc' 'CFLAGS=-DFUNDERSC=1' 'CFLAGS_DOUBLE=-DDOUBLE_PRECISION' 'FFLAGS+=-O0' 'default_to_be'
+
+# 2022-11-03 15:18:29
+./src/start.x
+
+# 2022-11-03 15:18:33
+./src/run.x
+
+# 2022-11-03 15:19:03
+./src/start.x
+
+# 2022-11-03 15:33:02
+/Users/wlyra/pencil-code/bin/pc_build 
+# make 'FC=/opt/local/libexec/openmpi-gcc11/mpif90' 'FFLAGS=-O -O0 -Wall -finit-real=NaN -finit-integer=-2147483648 -g -fbacktrace -fimplicit-none -fcheck=all -ffpe-trap=invalid,zero,overflow,denormal -O1 -I/opt/local/include' 'FFLAGS_DOUBLE=-fdefault-real-8 -fdefault-double-8' 'F77=/opt/local/libexec/openmpi-gcc11/mpif77' 'CC=/opt/local/libexec/openmpi-gcc11/mpicc' 'CFLAGS=-DFUNDERSC=1' 'CFLAGS_DOUBLE=-DDOUBLE_PRECISION' 'default_to_be'
+
+# 2022-11-03 15:33:09
+./src/start.x
+
+# 2022-11-03 15:33:12
+./src/run.x
+
+# 2022-11-03 15:33:26
+./src/start.x

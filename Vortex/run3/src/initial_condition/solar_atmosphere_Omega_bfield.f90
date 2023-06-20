@@ -1,0 +1,1 @@
+/Users/wlyra/pencil-code/src/initial_condition/solar_atmosphere_Omega_bfield.f90

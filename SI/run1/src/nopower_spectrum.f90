@@ -1,0 +1,1 @@
+/Users/wlyra/pencil-code/src/nopower_spectrum.f90

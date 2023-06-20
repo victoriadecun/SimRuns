@@ -1,0 +1,1 @@
+/Users/wlyra/pencil-code/src/special/lucky_droplet.f90

@@ -1,0 +1,1 @@
+/Users/wlyra/pencil-code/src/special/gross_pitaevskii.f90

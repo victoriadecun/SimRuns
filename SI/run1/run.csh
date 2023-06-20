@@ -1,0 +1,1 @@
+/Users/wlyra/pencil-code/bin/run.csh
