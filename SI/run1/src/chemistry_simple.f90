@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/chemistry_simple.f90

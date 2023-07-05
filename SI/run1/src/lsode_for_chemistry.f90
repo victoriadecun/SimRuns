@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/lsode_for_chemistry.f90

@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/deriv_10th.f90

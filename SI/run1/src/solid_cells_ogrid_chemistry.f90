@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/solid_cells_ogrid_chemistry.f90

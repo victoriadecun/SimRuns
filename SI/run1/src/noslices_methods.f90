@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/noslices_methods.f90

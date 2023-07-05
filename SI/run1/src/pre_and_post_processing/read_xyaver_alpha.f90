@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/pre_and_post_processing/read_xyaver_alpha.f90

@@ -4,8 +4,7 @@
 !
 &init_pars
     xyz0 = -1.0, -1.0, -1.0 
-    Lxyz = 2.0, 2.0, 2.0
-    lwrite_aux=T
+    Lxyz = 2.0, 2.0, 2.0 
 /
 &eos_init_pars
     gamma = 1.0

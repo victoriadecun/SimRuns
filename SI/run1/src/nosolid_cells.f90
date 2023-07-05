@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/nosolid_cells.f90

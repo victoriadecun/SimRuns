@@ -1,1 +1,0 @@
-/Users/victoriadeCun1/pencil-code/src/boundcond_alt.f90
