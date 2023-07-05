@@ -12,4 +12,4 @@ integer, parameter :: nxgrid=64, nygrid=1, nzgrid=64
 integer, parameter :: npar=nxgrid*nzgrid, mpar_loc=npar, npar_mig=2*nxgrid
 ! grid / proc = 4
 ! nblockmax = 2*(nbrickx/nprocx)*(nbricky/nprocy)*(nbrickz/nprocz)
-integer, parameter :: nbrickx=4, nbricky=4, nbrickz=4, nblockmax=16
+integer, parameter :: nbrickx=4, nbricky=1, nbrickz=4, nblockmax=16
